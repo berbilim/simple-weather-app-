@@ -1,1 +1,3 @@
-# simple-weather-app-
+# Simple Weather App
+
+A basic Flask app.
